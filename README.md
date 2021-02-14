@@ -1,1 +1,3 @@
-# quantum-circuit-simulator
+# Quantum Circuit Simulator
+
+This repo was created as part of my application to the [Quantum Open Source Foundation mentorship program](https://qosf.org/qc_mentorship/). It contains a set of functions that allows any Python user to simulate a set of quantum gate operations on a given number of qubits. A description of the task is given in [this notebook](https://github.com/quantastica/qosf-mentorship/blob/master/qosf-simulator-task.ipynb) and a descritpion of all available tasks can be found [here](https://docs.google.com/document/d/1944peQceYXhRA4Usp6ub_l2ms1xj8mXgseCgWpyBZOA/edit?usp=sharing). 
